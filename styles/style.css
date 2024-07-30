@@ -136,3 +136,8 @@ a {
 .infos > li {
     margin: -0.75rem 0;
 }
+
+p {
+    text-align: justify;
+    font-weight: bold;
+}
